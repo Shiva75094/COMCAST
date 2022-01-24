@@ -9,7 +9,7 @@ public class Demo
 	{
 		System.out.println("This is my fist program");
 		
-		System.out.println("This is user2 first program");
+		System.out.println("This is user 2 first program");
 	}
 
 }
